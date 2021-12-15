@@ -12,6 +12,7 @@ p {
 	line-height: 1.4em;
 	margin-bottom: 20px;
 	color: #D8DBE2;
+	text-align: justify;
 }
 
 h1 {
@@ -36,4 +37,9 @@ margin: 25px auto;
 }
 .clear {
   clear: both;
+}
+
+.mainDetails {
+border: 10px solid #grey;
+text-align: center;
 }
