@@ -43,3 +43,7 @@ margin: 25px auto;
 border: 10px solid #grey;
 text-align: center;
 }
+
+.sectionContent{
+	font-size: 1.5em
+}
